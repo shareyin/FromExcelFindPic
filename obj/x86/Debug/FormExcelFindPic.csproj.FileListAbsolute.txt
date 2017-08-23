@@ -1,0 +1,7 @@
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\bin\Debug\FormExcelFindPic.exe
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\bin\Debug\FormExcelFindPic.pdb
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\obj\x86\Debug\FormExcelFindPic.labelCat.resources
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\obj\x86\Debug\FormExcelFindPic.Properties.Resources.resources
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\obj\x86\Debug\FormExcelFindPic.csproj.GenerateResource.Cache
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\obj\x86\Debug\FormExcelFindPic.exe
+E:\vsdev\FormExcelFindPic\FormExcelFindPic\obj\x86\Debug\FormExcelFindPic.pdb
